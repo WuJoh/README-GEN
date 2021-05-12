@@ -1,0 +1,27 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Wu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.2",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuJoh/readme.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/WuJoh/readme/issues"
+  },
+  "homepage": "https://github.com/WuJoh/readme#readme"
+}
